@@ -20,7 +20,7 @@
 
 ### Connect with Me :
 
-<a href="[https://linkedin.com/in/yousefdergham](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BPMCUfpyhRkWgpdrKv%2BoLGQ%3D%3D)" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Mohammed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BPMCUfpyhRkWgpdrKv%2BoLGQ%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Mohammed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
